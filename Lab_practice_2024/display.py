@@ -1,0 +1,5 @@
+print("NAME:- ADITYA PADHI")
+print("AREA:- ITER BH4 BBSR")
+print("ODISHA")
+print("PIN:- 751030")
+print("MOBILE:- 1266998729")                

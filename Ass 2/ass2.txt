@@ -1,0 +1,35 @@
+Write a program such that Python will ask you if it is raining or not. If your answer is ”yes”, Python
+will say ”Carry an umbrella”. If you type anything else, Python will say ”Bye”.
+2. Write a program such that Python will ask you if it is raining or not. If your answer is ”yes”, Python
+will say ”Carry an umbrella”. If you say ”no”, Python will say ”No need to carry an umbrella”. If
+you type anything else, Python will say ”Bye”.
+3. Write a Python program to calculate a student’s letter grade based on their numeric score using the fol-
+lowing scale: A (90–100), B (80–89), C (70–79), D (60–69), and F (below 60). Additionally, provide
+a comment for each grade: ”Excellent” for A, ”Good” for B, ”Average” for C, ”Needs Improvement”
+for D, and ”Failing” for F.
+4. Write a program that takes an integer input from the user and tells the user whether the number is
+even or odd.
+5. Write a program that takes a year as input and determines whether it is a leap year or not.
+6. Write a program that takes an integer input from the user and prints whether it is prime or not.
+7. In line with the previous question, write a program to compute the sum of all prime numbers below a
+user input number, e.g., Sum of all prime numbers less than 20 is 77.
+8. Write a program that takes an integer input from the user. Use a while loop to continuously prompt
+for input until the user enters a positive number. If the final number is even, multiply it by 2 and if it
+is odd, square it. Display the results at the end.
+9. Write a program to find the remainder when a user input number is divided by 5 using match case. If
+the user inputs a non-integer, Python should say ”Invalid input” and stop.
+10. Write a program that takes a string as input and prints out all possible sub-strings of the string using
+loops, e.g., if the input is ”abc”, the output should be ”a”, ”ab”, ”abc”, ”b”, ”bc”, ”c”.
+11. Write a program that functions as a simple calculator. It should continuously accept a pair of numbers
+and an operator (+, -, *, /) from the user and print the result. If the user types ”exit,” the program
+quits. Otherwise the program continues asking for a pair of input numbers.
+12. Write a program to find out the mean, median, and mode of 1, 2, 3, 2, 3, 4, 4, 4, 5, 4, 5, 6.
+13. Positions on a chess board are identified by a letter and a number. The letter identifies the column,
+while the number identifies the row, as shown below in Figure 1:
+Write a program that reads a position from the user and identify the proper color of the respective
+box.
+14. Write a Python program that calculates the final cost of a hotel booking based on the room type
+(Standard: $100/night, Deluxe: $150/night, Suite: $250/night), the length of stay (10% discount for
+>3 nights, 20% discount for >7 nights), the season (20% increase during peak season, 15% decrease
+during the off-season), and whether the customer is a loyalty member (5% additional discount). The
+program should output the final booking cost after applying all relevant discounts and adjustments.
